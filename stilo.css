@@ -1,0 +1,111 @@
+body{
+  background-image: url(fundopng.png);
+  background-size:cover;
+}
+
+header{
+  color: aliceblue;
+  font-size: 150px;
+  
+  background-image: url(1.png);
+  background-size: cover;
+
+
+
+
+}
+
+h1{
+  margin-top: 5%;
+    text-decoration: underline ;
+    color: #FF66C4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    top: 18px;
+}
+
+
+.logo{
+ 
+  width: 150px;
+  top: 70px;
+  right: 20px;
+}
+
+.paragrafo{
+  margin-top: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 250px;
+
+}
+
+.primeira{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  
+
+
+}
+
+.paragrafo2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 250px;
+
+}
+ .foto2{
+  width: 300px;
+  height: 300px;
+  position: relative;
+ }
+
+ .paragrafo3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 250px;
+
+ }
+
+ .foto3{
+  width: 300px;
+  height: 300px;
+  position: relative;
+
+ }
+
+ .paragrafo4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 250px;
+
+ }
+
+ .foto4{
+  width: 300px;
+  height: 300px;
+  position: relative;
+ }
+
+ .paragrafo5{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 250px;
+ }
+
+ .foto5{
+  width: 300px;
+  height: 300px;
+  position: relative;
+ }
+
+ footer{
+  background-color: #FF66C4;
+  font-family: Arial, Helvetica, sans-serif;
+ }
